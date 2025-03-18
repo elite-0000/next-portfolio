@@ -9,7 +9,7 @@ const Projects = () => {
 
   const handleDemo = (projectId) => {
     const demoUrls = {
-      'video-streaming': 'https://github.com/yourusername/video-streaming-platform',
+      'video-streaming': 'https://github.com/Winterhub-1990/Vue-WebRTC',
       'voip': 'https://github.com/yourusername/voip-solution',
       'health': 'https://github.com/yourusername/health-monitoring',
       'video-analytics': 'https://github.com/yourusername/video-analytics-platform'

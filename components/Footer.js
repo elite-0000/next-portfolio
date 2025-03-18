@@ -13,24 +13,24 @@ const Footer = () => {
         </div>
         <div className="secondtext">
           <h2>Email</h2>
-          <p>elite.alphapoint1990@gmail.com</p>
+          <p>oleksandrmalskyi@gmail.com</p>
         </div>
       </div>
       <div className={FooterStyles.secondcontainer}>
         <p>Innovating one project at a time</p>
         <ul>
           <li>
-            <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Winterhub-1990" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
             </a>
           </li>
           <li>
-            <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/oleksandrmalsky" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-instagram"></i>
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/oleksandrmalsky" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-twitter"></i>
             </a>
           </li>
