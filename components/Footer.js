@@ -20,13 +20,19 @@ const Footer = () => {
         <p>Innovating one project at a time</p>
         <ul>
           <li>
-            <i className="fab fa-github"></i>
+            <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener noreferrer">
+              <i className="fab fa-github"></i>
+            </a>
           </li>
           <li>
-            <i className="fab fa-instagram"></i>
+            <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" rel="noopener noreferrer">
+              <i className="fab fa-instagram"></i>
+            </a>
           </li>
           <li>
-            <i className="fab fa-twitter"></i>
+            <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank" rel="noopener noreferrer">
+              <i className="fab fa-twitter"></i>
+            </a>
           </li>
         </ul>
       </div>
